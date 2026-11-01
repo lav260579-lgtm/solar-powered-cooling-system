@@ -23,14 +23,13 @@ The ESP32 receives temperature and humidity readings from the DHT22 sensor. Thes
 # Hardware design
 <img width="1080" height="778" alt="WhatsApp Image 2026-11-01 at 16 25 56" src="https://github.com/user-attachments/assets/41d51846-9aff-46d1-a76e-5850c0819c5f" />
 # Applications
-- Small cooling systems
+- Small cooling system
 - renewable energy based cooling applications
 - energy efficient cooling solutions.
 # Future scope
-The System can be improved through better energy management, temperature monitoring and automation.
+-The System can be improved through better energy management, temperature monitoring and automation.
 # Project team 
-Manish Soni
-Prakhar Sinha 
-Madhura Zore
-Priya Vangari
-The system can be improved through better energy management, temperature monitoring and automation.
+-Manish Soni
+-Prakhar Sinha 
+-Madhura Zore
+-Priya Vangari
