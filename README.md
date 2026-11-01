@@ -18,7 +18,12 @@ Components required
 - Peltier Cooling System
 - Relay module (Cooling Fan/Heat Sink)
 Working principle
+The solar panel generates electrical energy, which is regulated by the charge controller and stored in a 12V battery. The stored energy powers the cooling system and control electronics.
+The ESP32 receives temperature and humidity readings from the DHT22 sensor. These readings can be displayed on the LCD. The cooling mechanism and fans help maintain the required storage conditions.
 Hardware design
+<img width="1080" height="778" alt="WhatsApp Image 2026-11-01 at 16 25 56" src="https://github.com/user-attachments/assets/41d51846-9aff-46d1-a76e-5850c0819c5f" />
+
+
 Applications
 - Small cooling systems
 - renewable energy based cooling applications
