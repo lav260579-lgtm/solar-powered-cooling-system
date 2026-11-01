@@ -7,6 +7,16 @@ Objectives
 - To develop an efficient cooling system.
 - To promote sustainable technology.
 Components required
+- Arduino Uno
+- Temperature Sensor
+- Humidity Sensor
+- OLED Display
+- Solar Panel
+- Female and Male Jumper Wires
+- Battery
+- Charge Controller
+- Peltier Cooling System
+- Relay module (Cooling Fan/Heat Sink)
 Working principle
 Hardware design
 Applications
